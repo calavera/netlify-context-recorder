@@ -1,0 +1,23 @@
+{
+  "name": "netlify-context-recorder",
+  "version": "1.0.0",
+  "description": "\"Save Netlify's context information as part of the compiled assets\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calavera/netlify-context-recorder.git"
+  },
+  "keywords": [
+    "netlify",
+    "webpack"
+  ],
+  "author": "David Calavera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calavera/netlify-context-recorder/issues"
+  },
+  "homepage": "https://github.com/calavera/netlify-context-recorder#readme"
+}
