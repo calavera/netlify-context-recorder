@@ -26,7 +26,7 @@ function saveContext(compilation, path) {
     "context": process.env["CONTEXT"],
     "headBranch": process.env["HEAD"] || "master",
     "commitRef": process.env["COMMIT_REF"],
-    "repository": process.env["REPOSITORY"],
+    "repository": process.env["REPOSITORY_URL"],
     "deployUrl": process.env["PRIME_DEPLOY_URL"],
     "reviewId": process.env["REVIEW_ID"]
   };
